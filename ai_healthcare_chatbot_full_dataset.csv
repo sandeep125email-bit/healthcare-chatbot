@@ -1,0 +1,501 @@
+symptoms,predicted_disease,otc_medication,recommendation
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+skin rash,Allergy,Antihistamines,Avoid known allergens and apply soothing lotion.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+sore throat and fever,Tonsillitis,Lozenges,Drink warm fluids and gargle with salt water.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+dry cough,Bronchitis,Cough syrup,Avoid smoke and get plenty of rest.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+abdominal pain,Gastritis,Antacids,Avoid spicy food and consult a gastroenterologist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+headache and nausea,Migraine,Ibuprofen,Avoid bright lights and get rest.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+high blood sugar,Diabetes,Metformin,Monitor blood sugar and follow diet plan.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+shortness of breath,Asthma,Inhaler,Avoid triggers and seek medical advice.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+low blood pressure,Hypotension,Fluids and Salt,Eat small meals and rise slowly.
+back pain,Slip Disc,Ibuprofen,Rest and avoid lifting heavy objects.
+joint pain,Arthritis,Naproxen,Exercise regularly and consult a specialist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."
+weight loss and fatigue,Cancer,Consult Oncologist,Seek immediate professional help.
+chest pain,Heart Disease,Aspirin (only under doctor supervision),Seek immediate medical attention.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+blurred vision,Glaucoma,Prescription eye drops,Visit an ophthalmologist.
+fever and cough,Flu,Paracetamol,Stay hydrated and rest. Consult a doctor if symptoms persist.
+dizziness,Vertigo,Meclizine,"Lie down in a dark, quiet room."

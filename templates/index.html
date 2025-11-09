@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Healthcare Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .chat-box { background: #f1f1f1; padding: 20px; border-radius: 8px; max-height: 400px; overflow-y: auto; margin-top: 20px; }
+        .chat-entry { margin-bottom: 15px; }
+        .user-msg { font-weight: bold; }
+        .bot-msg { background: #e6f7ff; padding: 10px; border-left: 4px solid #0077b6; border-radius: 5px; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🩺 Healthcare Chatbot</h1>
+        <form method="post" action="/predict">
+            <label for="symptoms">Enter your symptoms:</label>
+            <input type="text" name="symptoms" id="symptoms" placeholder="e.g. I have fever and headache" required>
+            <button type="submit">Check Diagnosis</button>
+        </form>
+
+        <div class="chat-box">
+            {% if session['chat_history'] %}
+                {% for entry in session['chat_history'] %}
+                    <div class="chat-entry">
+                        <div class="user-msg">🧑‍💬 You: {{ entry.user_input }}</div>
+                        <div class="bot-msg">
+                            <strong>🔍 Diagnosis:</strong> {{ entry.diagnosis }}<br>
+                            💊 <strong>Medication:</strong> {{ entry.medication }}<br>
+                            🩺 <strong>Advice:</strong> {{ entry.recommendation }}
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
